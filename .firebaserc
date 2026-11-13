@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bbva22-8a96d": {
+      "hosting": {
+        "bbva22-fe": [
+          "hackathonbbva22"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bbva22-8a96d"
+  }
+}

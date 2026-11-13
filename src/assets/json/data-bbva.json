@@ -1,0 +1,387 @@
+[
+  {
+    "name": "BBVA - Canaval y Moreyra",
+    "address": "Av. Canaval y Moreyra 243-245",
+    "longitude": -12.0967155,
+    "latitude": -77.0235788,
+    "total": 30
+  },
+  {
+    "name": "BBVA San Isidro",
+    "address": "Av. República de Panamá 3055",
+    "longitude": -12.0937126,
+    "latitude": -77.0211611,
+    "total": 25
+  },
+  {
+    "name": "BBVA Las Begonias",
+    "address": "C. Las Begonias 425 - 429",
+    "longitude": -12.0925616,
+    "latitude": -77.0241524,
+    "total": 30
+  },
+  {
+    "name": "Agentes BBVA",
+    "address": "Av. Republica de Panamá 3055 San Isidro Gobierno Regional de Lima LIMA",
+    "longitude": -12.0939282,
+    "latitude": -77.0211518,
+    "total": 25
+  },
+  {
+    "name": "BBVA C.C. San Isidro",
+    "address": "Av. Rivera Navarrete 815",
+    "longitude": -12.0954325,
+    "latitude": -77.0262378,
+    "total": 25
+  },
+  {
+    "name": "Puerta C BBVA",
+    "address": "C. las Castañitas 150",
+    "longitude": -12.092883,
+    "latitude": -77.0202741,
+    "total": 20
+  },
+  {
+    "name": "Banco BBVA - Sucursal Las Tiendas",
+    "address": "Alt. cuadra 7 y 8 Av. Aramburu, Tiendas 209, Surquillo",
+    "longitude": -12.104162,
+    "latitude": -77.021158,
+    "total": 15
+  },
+  {
+    "name": "BBVA - Camino Real",
+    "address": "Av. Camino Real 355",
+    "longitude": -12.0973616,
+    "latitude": -77.0360994,
+    "total": 20
+  },
+  {
+    "name": "BBVA - Óvalo Quiñonez",
+    "address": "Av. Guardia Civil 789",
+    "longitude": -12.0982724,
+    "latitude": -77.0115869,
+    "total": 25
+  },
+  {
+    "name": "BBVA Nicolas Arriola 1",
+    "address": "Av Nicolás Arriola 607",
+    "longitude": -12.083724,
+    "latitude": -77.014596,
+    "total": 35
+  },
+  {
+    "name": "BBVA Jorge Basadre",
+    "address": "Av Jorge Basadre 487",
+    "longitude": -12.094951,
+    "latitude": -77.03747,
+    "total": 15
+  },
+  {
+    "name": "BBVA Continental",
+    "address": "Av. Guardia Civil 199",
+    "longitude": -12.0982793,
+    "latitude": -77.0115875,
+    "total": 20
+  },
+  {
+    "name": "BBVA",
+    "address": "Av. Jorge Basadre 105",
+    "longitude": -12.0915607,
+    "latitude": -77.0336658,
+    "total": 25
+  },
+  {
+    "name": "BBVA Aramburu",
+    "address": "Av. Andrés Aramburú 154",
+    "longitude": -12.1035722,
+    "latitude": -77.0307849,
+    "total": 20
+  },
+  {
+    "name": "Banco Bbva",
+    "address": "Av. Sta. Cruz 685",
+    "longitude": -12.1093894,
+    "latitude": -77.0358528,
+    "total": 10
+  },
+  {
+    "name": "BBVA Conquistadores",
+    "address": "Av. Los Conquistadores 1099",
+    "longitude": -12.1071581,
+    "latitude": -77.0370488,
+    "total": 15
+  },
+  {
+    "name": "BBVA San Borja (Ex San Borja 1)",
+    "address": "Av. Aviación 2465 2467",
+    "longitude": -12.089808,
+    "latitude": -77.0030564,
+    "total": 15
+  },
+  {
+    "name": "BBVA Tomas Marsano",
+    "address": "Av Tomás Marsano 399",
+    "longitude": -12.1073479,
+    "latitude": -77.0158251,
+    "total": 25
+  },
+  {
+    "name": "BBVA C.C. San Borja",
+    "address": "Av. Javier Prado Este 2010",
+    "longitude": -12.0889328,
+    "latitude": -77.0051444,
+    "total": 35
+  },
+  {
+    "name": "BBVA Continental",
+    "address": "Remingtong 273",
+    "longitude": -12.0983394,
+    "latitude": -77.0109957,
+    "total": 30
+  },
+  {
+    "name": "BBVA San Luis",
+    "address": "Av. Javier Prado Este 2870",
+    "longitude": -12.0873286,
+    "latitude": -76.9959865,
+    "total": 15
+  },
+  {
+    "name": "BBVA Lince",
+    "address": "Av. Ignacio Merino 2099",
+    "longitude": -12.0852851,
+    "latitude": -77.0322167,
+    "total": 35
+  },
+  {
+    "name": "BBVA Continental",
+    "address": "Av. Aviación 2801-2805",
+    "longitude": -12.096468,
+    "latitude": -77.002129,
+    "total": 20
+  },
+  {
+    "name": "BBVA Dos De Mayo",
+    "address": "Calle Los Laureles 214, cuadra 15 de dos de mayo",
+    "longitude": -12.0925929,
+    "latitude": -77.0465115,
+    "total": 10
+  },
+  {
+    "name": "BBVA Limatambo",
+    "address": "Av. Aviación 3328",
+    "longitude": -12.1037943,
+    "latitude": -77.0015357,
+    "total": 35
+  },
+  {
+    "name": "BBVA - B.E. Dos De Mayo - Los Robles",
+    "address": "Av. Dos de Mayo 1198",
+    "longitude": -12.0917491,
+    "latitude": -77.0429134,
+    "total": 20
+  },
+  {
+    "name": "BBVA - Premium Pardo Y Aliaga",
+    "address": "Av. Pardo y Aliaga 652",
+    "longitude": -12.1062158,
+    "latitude": -77.0386482,
+    "total": 25
+  },
+  {
+    "name": "BBVA Continental - Santa Cruz",
+    "address": "Av. Sta. Cruz 695",
+    "longitude": -12.1094036,
+    "latitude": -77.0358163,
+    "total": 35
+  },
+  {
+    "name": "BBVA Cavenecia",
+    "address": "Calle Tudela y Varela",
+    "longitude": -12.1078018,
+    "latitude": -77.0396338,
+    "total": 35
+  },
+  {
+    "name": "BBVA C.C.Risso",
+    "address": "Esquina Avenida Arequipa, Risso",
+    "longitude": -12.0855923,
+    "latitude": -77.0345905,
+    "total": 30
+  },
+  {
+    "name": "BBVA Parque Castilla (Ex Mercado Risso)",
+    "address": "Julio Cesar Tello 1002",
+    "longitude": -12.0867852,
+    "latitude": -77.0430266,
+    "total": 20
+  },
+  {
+    "name": "BBVA San Borja Sur",
+    "address": "Av. San Luis 2599",
+    "longitude": -12.099812,
+    "latitude": -76.9945499,
+    "total": 35
+  },
+  {
+    "name": "BBVA Santa Monica",
+    "address": "Av. Gral. Juan Antonio Pezet 1425",
+    "longitude": -12.1028926,
+    "latitude": -77.0526646,
+    "total": 25
+  },
+  {
+    "name": "BBVA Angamos Open Plaza",
+    "address": "Av. Angamos Este 1256",
+    "longitude": -12.1131773,
+    "latitude": -77.0186727,
+    "total": 25
+  },
+  {
+    "name": "BBVA Consumer Finance",
+    "address": "Av. República de Panamá 3055",
+    "longitude": -12.0939282,
+    "latitude": -77.0211518,
+    "total": 30
+  },
+  {
+    "name": "BBVA CanadaLa Rosa Toro",
+    "address": "Avenida Agustín de la Rosa Toro 998",
+    "longitude": -12.0808222,
+    "latitude": -76.9937747,
+    "total": 10
+  },
+  {
+    "name": "BBVA Angamos Este",
+    "address": "Avenida Angamos este 215 227, esquina con Avenida Petit thouars 5091",
+    "longitude": -12.1135247,
+    "latitude": -77.0286372,
+    "total": 15
+  },
+  {
+    "name": "BBVA San Felipe",
+    "address": "Residencial San Felipe",
+    "longitude": -12.0875341,
+    "latitude": -77.0538149,
+    "total": 20
+  },
+  {
+    "name": "BBVA Domingo Cueto",
+    "address": "Av. Gral. Antonio Alvarez de Arenales 1500",
+    "longitude": -12.0801087,
+    "latitude": -77.036458,
+    "total": 30
+  },
+  {
+    "name": "Agente BBVA",
+    "address": "Edificio Las Begonias 103",
+    "longitude": -12.0892674,
+    "latitude": -77.0549268,
+    "total": 20
+  },
+  {
+    "name": "BBVA Ovalo Miraflores",
+    "address": "Av. José Pardo 320",
+    "longitude": -12.1188312,
+    "latitude": -77.0318743,
+    "total": 15
+  },
+  {
+    "name": "BBVA - Mexico",
+    "address": "Av. México 568",
+    "longitude": -12.0752297,
+    "latitude": -77.0237763,
+    "total": 20
+  },
+  {
+    "name": "BBVA Ricardo Palma",
+    "address": "Av. Ricardo Palma 296",
+    "longitude": -12.119303,
+    "latitude": -77.0268373,
+    "total": 25
+  },
+  {
+    "name": "BBVA Comandante Espinar",
+    "address": "Av. Comandante Espinar 368",
+    "longitude": -12.1161412,
+    "latitude": -77.0367189,
+    "total": 25
+  },
+  {
+    "name": "BBVA Salaverry",
+    "address": "Avenida Salaverry 32 30, calle dionisio anchorena 411 425",
+    "longitude": -12.0990649,
+    "latitude": -77.056629,
+    "total": 10
+  },
+  {
+    "name": "BBVA - Parinacochas",
+    "address": "Av. México 1298",
+    "longitude": -12.0736209,
+    "latitude": -77.0165083,
+    "total": 20
+  },
+  {
+    "name": "BBVA Montegrande",
+    "address": "C. Monte Grande 133",
+    "longitude": -12.1119737,
+    "latitude": -76.9905586,
+    "total": 20
+  },
+  {
+    "name": "BBVA Plaza San José",
+    "address": "Jirón Huamachuco 1301",
+    "longitude": -12.075107,
+    "latitude": -77.0479559,
+    "total": 20
+  },
+  {
+    "name": "BBVA Pardo",
+    "address": "Av. José Pardo 791",
+    "longitude": -12.1192591,
+    "latitude": -77.036679,
+    "total": 15
+  },
+  {
+    "name": "BBVA Essalud",
+    "address": "Av. Gral. Antonio Alvarez de Arenales 1302",
+    "longitude": -12.0790603,
+    "latitude": -77.0375222,
+    "total": 35
+  },
+  {
+    "name": "BBVA Nicolas Arriola 2",
+    "address": "Av Nicolás Arriola 1799",
+    "longitude": -12.0730927,
+    "latitude": -77.005285,
+    "total": 25
+  },
+  {
+    "name": "BBVA Caminos Del Inca",
+    "address": "Av. Caminos del Inca 252 256, URB",
+    "longitude": -12.1139524,
+    "latitude": -76.9923162,
+    "total": 25
+  },
+  {
+    "name": "BBVA Orrantia",
+    "address": "Av. Alberto del Campo 1006",
+    "longitude": -12.096274,
+    "latitude": -77.0595155,
+    "total": 20
+  },
+  {
+    "name": "BBVA Arenales",
+    "address": "Av. Gral. Antonio Alvarez de Arenales 701",
+    "longitude": -12.0716005,
+    "latitude": -77.0373911,
+    "total": 25
+  },
+  {
+    "name": "BBVA",
+    "address": "WXJ9+HXH, Av. Iquitos",
+    "longitude": -12.0685619,
+    "latitude": -77.0300126,
+    "total": 30
+  }
+]

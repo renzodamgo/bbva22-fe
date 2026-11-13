@@ -1,0 +1,110 @@
+.title{
+  text-align: center;
+  font-size: 2.1rem;
+  padding: 2rem;
+  font-weight: bold;
+}
+
+.description{
+  text-align: center;
+  color: rgb(89, 90, 93);
+  padding: 1rem;
+}
+.cont:hover{
+background-color: rgb(205, 210, 218);
+cursor: pointer;
+padding: 1rem;
+}
+
+.image-chargemovil{
+  width: 2rem;
+  height: 2rem;
+  text-align: center;
+
+}
+.title-chargemovil{
+
+  font-size: 1rem;
+  padding: 2rem;
+  font-weight: bold;
+}
+
+.whatsapp {
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:40px;
+  right:40px;
+
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  font-size:30px;
+  z-index:100;
+}
+
+.whatsapp-icon {
+  margin-top:13px;
+}
+.container-picture{
+  display: flex;
+  align-items: center;
+  background-color: #13131A;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.content{
+  padding: 10rem 7%;
+}
+
+.about-us{
+  display: flex;
+  align-items: center;
+  background-color: #13131A;
+  flex-wrap: wrap;
+}
+.image{
+  flex: 1 1 45rem;
+
+}
+.about-img{
+  width: 100%;
+}
+.text{
+  flex: 1 1 45rem;
+  padding: 2rem;
+}
+.question{
+  font-size: 3rem;
+  color:white;
+}
+p{
+  font-size: 1.6rem;
+  color:#ccc;
+  padding: 1rem 0;
+  line-height: 1.8;
+}
+
+.estilo-input{
+  width:30%;
+
+}
+button {
+  background-color: #072146;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button-busqueda{
+display: flex;
+justify-content: center;
+
+}
+.full{
+ width:100vw;
+ height: 100vh;
+}

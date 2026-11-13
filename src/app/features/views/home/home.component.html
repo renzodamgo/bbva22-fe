@@ -1,0 +1,25 @@
+<div>
+  <div class="about-us">
+    <div class="image">
+      <img src="assets\images\1.png" alt="about" class="about-img">
+    </div>
+  <div class="text">
+    <h2 style="color:white">Ingresa tu DNI</h2>
+    <input class="form-control estilo-input" [formControl]="dniLocal" >
+    <button (click)="dataDni(dniLocal.value)">Aquí</button>
+
+  </div>
+  </div>
+</div>
+
+<h2 class="title">CONOCE NUESTROS BANCOS <h2> {{name}}</h2></h2>
+<div class="button-busqueda">
+  <button>Ubicación</button>
+  <button>Filtro</button>
+</div>
+<div id="map" class="full">
+
+</div>
+
+
+
